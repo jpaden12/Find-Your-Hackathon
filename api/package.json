@@ -1,0 +1,15 @@
+{
+  "name": "Find-Your-Hackathon-API",
+  "version": "0.0.1",
+  "description": "Skeleton for Find Your Hackathon API",
+  "main": "server.js",
+  "authon": "Jamal Paden",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.1",
+    "morgan": "^1.7.0",
+    "node-restful": "^0.2.5"
+  }
+}
